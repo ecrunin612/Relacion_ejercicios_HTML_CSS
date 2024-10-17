@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2, h3 {
+    padding: 1rem 0 1rem 0 ;
+    
+}
+
+div {
+    background-color: gray;
+}
+
+.azul {
+    color: blue;
+}
+
+.verde {
+    color: green;
+}
+
+.cajas {
+    border: 2px solid black;
+}
+
+.caja-principal {
+    border: 2px solid rgb(211, 211, 211);
+}
