@@ -1,0 +1,45 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#selector1 {
+    background-color: gray;
+}
+
+h1.especial {
+    color:blue;
+}
+
+h2, h3 {
+    border: 1px solid orange;
+}
+
+ul > li {
+    color:red ;
+}
+
+ul ul li {
+    color: green;
+}
+
+.rosa{
+    background-color: pink;
+    border: 0px;
+}
+
+.azul {
+    background-color: blue;
+    border: 0px;
+}
+
+img {
+    width: 10%;
+    height: auto;
+}
+p img:first-child {
+    border: 5px solid black;
+}
+
+img[alt="segunda"] {
+    border:5px solid red;
+}

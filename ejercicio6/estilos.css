@@ -1,0 +1,48 @@
+h1 {
+    color: #333;
+    font-size: 20px;
+}
+
+h2 {
+    color: #666;
+    font-size: 16px;
+
+}
+
+a {
+    color: blue;
+    font-size: 16px;
+}
+
+thead {
+    background-color: #666;
+}
+
+thead tr th {
+    color:white !important;
+    font-size: 16px;
+}
+
+p, th, li {
+    color:#000;
+    font-size: 14px;
+
+}
+
+table {
+    background-color: #fff;
+}
+
+tfoot td {
+    background-color: #ccc !important;
+}
+td, th {
+    padding: 0.7em 1em;
+    margin: 0;
+    border-width: 0 2px 1px 0;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
